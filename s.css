@@ -1,0 +1,7 @@
+.navbar
+{
+display: felx;
+justify-content: space-between;
+flex-direction: row;
+
+}
